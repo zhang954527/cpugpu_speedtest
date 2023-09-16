@@ -12,6 +12,7 @@ __pycache__/
 # execution files
 mm
 mm_omp
+mm_mpi
 
 # Distribution / packaging
 .Python
